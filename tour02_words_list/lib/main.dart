@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      home: new RandomWords(title: 'Tour01 - Words List'),
+      home: new RandomWords(title: 'Tour02 - Words List'),
     );
   }
 }
